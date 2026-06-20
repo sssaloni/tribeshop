@@ -61,6 +61,7 @@ tribeshop/
 │   │   └── main.jsx                  # React entry point
 │   ├── .env.example
 │   └── package.json
+├── ARCHITECTURE.md           # System Architecture & Design documentation
 └── README.md
 ```
 
